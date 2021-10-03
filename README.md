@@ -1,4 +1,3 @@
 # next-blog
------------------------------------
-<h2>purpose:</h2>
-<h3>learing next based creating a blog for Mehrdad</h3>
+
+<h3>purpose:</h3><p>learing next based creating a blog for Mehrdad</p>
